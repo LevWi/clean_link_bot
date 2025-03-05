@@ -10,6 +10,7 @@ A **simple Telegram bot** that removes tracking parameters from YouTube links, e
 ## 🔧 Run  
 1. Get your Telegram bot token from [BotFather](https://t.me/botfather).  
 2. Use TG_TOKEN enviroment variable for setting your token
+   
    Example:
    ```sh
    TG_TOKEN="your-token" ./clean_link_bot   
